@@ -1,0 +1,22 @@
+{
+	"name": "@bridged.xyz/ui-labeller",
+	"version": "0.1.0",
+	"private": true,
+	"license": "MIT",
+	"description": "Bridged's UI Labelling plugin for human on figma and sketch",
+	"workspaces": [
+		"packages/*",
+		"figma",
+		"sketch"
+	],
+	"repository": "https://github.com/bridgedxyz/ui-labeller",
+	"author": "bridged.xyz softmarshmallow <woojoo@softmarshmallow.com>",
+	"scripts": {
+		"figma": "yarn workspace figma run webpack:watch",
+		"sketch": "yarn workspace sketch run render"
+	},
+	"dependencies": {
+		"global": "^4.4.0",
+		"webpack-cli": "^4.1.0"
+	}
+}

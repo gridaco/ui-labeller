@@ -1,0 +1,7 @@
+{
+    "api": "1.0.0",
+    "id": "903855708086375422",
+    "name": "labeller",
+    "main": "dist/code.js",
+    "ui": "dist/ui.html"
+}
