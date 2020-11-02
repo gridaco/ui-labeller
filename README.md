@@ -8,7 +8,7 @@ figma - read [this guide](./figma/README.md)
 
 
 ## Design
-openned design file for ui-labeller available at [figma](https://www.figma.com/file/4hqwYFw6FKw1njvzEl3VUh/?node-id=351%3A1235)
+openned design file for ui-labeller available at [figma](https://www.figma.com/file/U0gKxMTiLgk6uB08qeTzoa/ui-labeller-plugin?node-id=0%3A1)
 
 
 ## Features
