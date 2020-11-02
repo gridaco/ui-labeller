@@ -26,6 +26,7 @@ openned design file for ui-labeller available at [figma](https://www.figma.com/f
 - It's easy to edit your labels preferense.
 - It's easy to share
 - It's all Open and Free
+- Add comments right above your design.
 - It just makes sense when your data is ui design.
 
 
