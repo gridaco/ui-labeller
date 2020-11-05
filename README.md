@@ -37,9 +37,14 @@ openned design file for ui-labeller available at [figma](https://www.figma.com/f
 - It's Visual - You can see your work in one place. (You don't get lost. You know where you are.)
 - It's easy to edit your labels preferense.
 - It's easy to share
+- use built-in UI building experience
+    - margin checking
+    - moving in pixel-level
+    - checking grid
 - It's all Open and Free
 - Add comments right above your design.
 - It just makes sense when your data is ui design.
+
 
 
 ## How to use
