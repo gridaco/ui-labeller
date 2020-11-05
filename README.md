@@ -19,10 +19,17 @@ openned design file for ui-labeller available at [figma](https://www.figma.com/f
 ## Features
 - Load you data from S3 / GCP
     - Organize workspace (Makes Artboards for your loaded images, and make them as a user-friendly grid)
-    
 - Make your own labelling preferences
 - Box / Ellipse / Custom shape labellings are supported
 - Multi tag in single label is supported
+
+
+
+## Example
+
+![](./docs/example.png)
+
+
 
 
 ## Why to use Bridged's Labeller instead of other labelling tools?
